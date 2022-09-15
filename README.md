@@ -2,9 +2,9 @@
 ## Job Satisfaction is everyone's business!
 
 Code Files:
-- Blog-Post-Business-Questions.ipynb - Jupyter notebook performs Business Questions and their answers
-- Blog-Post-Exploratory-Data-Analysis.ipynb - Jupyter notebook performs Exploratory Data Analysis of Stack Overflow survey data
-- Python_Package_Version_Check.py - Checks Python package version of your environment
+- Blog-Post-Business-Questions.ipynb - Perform Business Questions and their answers
+- Blog-Post-Exploratory-Data-Analysis.ipynb - Perform Exploratory Data Analysis of Stack Overflow survey data
+- Python_Package_Version_Check.ipynb - Check Python package version of your environment
 
 Data Files:
 - Survey data file
