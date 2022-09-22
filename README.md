@@ -38,7 +38,12 @@ Kaggle link for the both of the data files are [here](https://www.kaggle.com/dat
 
 ## Results <a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/Sankar_ray/.....)
+The main findings of the code can be found at the post available [here](https://sankar-ray.medium.com/are-you-looking-for-fulfillment-in-your-career-job-satisfaction-is-the-key-9af51517672b)
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
-Must give credit to Stack Overflow for the data. You can find the licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). Otherwise, feel free to use the code here as you would like!
+Must give credit to Stack Overflow for the data. You can find the licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data). If you use this work, you must acknowledge it too. Otherwise, feel free to use the code here as you would like!
+
+## References <a name="references"></a>
+1. [How to kick-start your first data blog?](https://towardsdatascience.com/how-to-kick-start-your-first-data-blog-9b850a0b8f46)
+2. [Group small values in a Pie Chart](https://stackoverflow.com/questions/69839373/group-small-values-in-a-pie-chart)
+3. [How to make button plot](https://datavizpyr.com/how-to-make-bubble-plot-with-seaborn-scatterplot-in-python/)
