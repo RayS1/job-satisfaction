@@ -15,6 +15,12 @@
 
 There are a few Python libraries needed for running all the included notebooks. However, Anaconda distribution of Python includes those. The code shold run using Python version 3.*
 
+For this project few Python libraries have been used. Their version numbers are:
+1. Numpy version ...... 1.12.1
+2. Pandas version ..... 0.23.3
+3. Matplotlib version . 2.1.0
+4. Seaborn version .... 0.8.1
+
 ## Project Motivation <a name="installation"></a>
 
 For this project, I was interested in using 2017 Stack Overflow Developer Survey Results dataset to understand and share the following insights:
@@ -34,7 +40,7 @@ There are two data files both of which should be place in the same folder as the
 1. survey_results_public.csv - Stack Overflow survey data file
 2. survey_results_schema.csv - Survey questions with their descriptions
 
-Kaggle link for the both of the data files are [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
+Kaggle link for the both the data files are [here](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
 
 ## Results <a name="results"></a>
 
