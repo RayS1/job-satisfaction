@@ -1,6 +1,6 @@
 # {"job": "satisfaction"}
 ![Humming-Bird](https://user-images.githubusercontent.com/7347974/190364874-eae81371-4332-4a74-ba95-881ab424cbd4.png)
-### Photo taken by the author
+### Photo by Sankar Ray
 ## Job Satisfaction is more important than ever before!
 
 ### Table of Contents
@@ -10,6 +10,7 @@
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
+6. [References](#references)
 
 ## Installation <a name="installation"></a>
 
